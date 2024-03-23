@@ -1,11 +1,9 @@
 ---
-title: "index"
+title: "haidp.github.io"
 format: html
 editor: visual
 ---
 
-# haidp.github.io
-
 ## Projects
 
-[shinylive](r-shinylive-demo.html)
+[shinylive](R-shinylive-demo.html)
