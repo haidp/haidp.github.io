@@ -4,6 +4,4 @@ format: html
 editor: visual
 ---
 
-## Projects
-
 [shinylive](R-shinylive-demo.html)
